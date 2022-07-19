@@ -1,0 +1,1 @@
+key_path = r'data\keyword'
